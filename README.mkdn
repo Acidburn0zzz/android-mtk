@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/source/using-repo.html).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://github.com/fire855/android-mtk.git -b cm-12.1_k1-turbo
+    repo init -u git://github.com/deadman96385/android-mtk.git -b cm-12.1
 
 Then to sync up:
 
